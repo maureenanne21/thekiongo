@@ -1,0 +1,21 @@
+h1 {
+    text-emphasis: none;
+    text-align: start;
+    text-decoration: dotted;
+    color: rgb(134, 7, 71);
+    background-color: deeppink;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+h2 {text-align: center;
+    color: blue
+    background-color: forestgreen;
+    display: block;
+    font: 1em sans-serif;
+    height: 40;
+    
+
+
+}
+    
+
